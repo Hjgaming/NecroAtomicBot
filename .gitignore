@@ -1,5 +1,4 @@
-botconfig.json
-/node_modules
+
 commands-enable.js
 command-disable.js
 .env
@@ -20,4 +19,4 @@ command-disable.js
 /commands/pay.js
 /commands/poke.js
 /commands/set-lang.js
-node_modules
+
